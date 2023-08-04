@@ -224,11 +224,6 @@ end
   	end    
 })
 
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
 local Tab = Window:MakeTab({
 	Name = "Other",
 	Icon = "rbxassetid://4483345998",
