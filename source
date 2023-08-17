@@ -1,3 +1,7 @@
+--this is outdated, i am updating it soon. don't use this for now.
+--also stop locking this script behind an adwall, just let other people get the script please
+--some code is also messy sorry abt that
+
 local lplr = game.Players.LocalPlayer
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
